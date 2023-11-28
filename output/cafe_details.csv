@@ -1,0 +1,11 @@
+id,name,rating,rating_count,is_restaurant,primary_type,lat,lng,dine_in,takeout
+ChIJffQZ6YipQjQRAdV3sCg2bcM,Rebirth Cafe & Restaurant,4.3,714,True,coffee_shop,25.021369000000004,121.53295240000001,True,True
+ChIJsygw_YipQjQR9OQ2KKEFI5Y,聞山咖啡台大店,4.7,551,False,cafe,25.0204797,121.5335043,True,True
+ChIJiYZJcompQjQRoI4OnWDl3zk,靈感咖啡 Vegan Coffee Shop,4.6,392,False,cafe,25.0188775,121.5334191,True,True
+ChIJN1y6RacCaDQRElenCbyeN2w,墨爾本布蕾斯咖啡廳 Melbourne Press Cafe | Brunch | Coffee Shop | 早午餐 | 咖啡廳 | 餐廳 |,4.3,392,True,cafe,25.0204776,121.5335175,True,True
+ChIJ4yq9ZImpQjQRRJQu4sJSdwY,西雅圖極品咖啡 台大店,4.0,789,False,coffee_shop,25.0182559,121.53336809999998,True,True
+ChIJCRed4JmpQjQRpOEwyWt1wwU,達文西咖啡 - 台大旗艦店（溫州店）,4.6,503,False,cafe,25.020628799999997,121.5329411,True,True
+ChIJ9ZdOiYipQjQRPPhSsgTk8J0,葛樂蒂咖啡館,4.4,879,False,cafe,25.022071,121.53389689999999,True,True
+ChIJAYjI7oipQjQRmqGtNWITDZU,AGCT apartment,4.4,636,False,cafe,25.021349100000002,121.53314549999997,True,True
+ChIJ-09J7zupQjQRpE6bXqwDoQY,羊跳蚤,4.1,128,False,coffee_shop,25.0213577,121.5331471,True,True
+ChIJ54r5aYmpQjQRSPx1fqonWXc,雪可屋,4.2,466,False,cafe,25.0196006,121.53239429999999,True,True
