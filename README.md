@@ -2,15 +2,14 @@
 
 This repository contains Python code and slides for a tutorial on using the Google Places API (New), focusing on Place Details (New) and Text Search (New).
 
-The tutorial was conducted at @NTUDAC on Nov 25, 2023, with materials written in Traditional Chinese.
+The tutorial was conducted online at @[NTUDAC](https://ntudac.com/) on Nov 25, 2023, with materials written in Traditional Chinese.
 
 ## Table of Contents
 
-- [google\_places\_api\_tutorial](#google_places_api_tutorial)
-  - [Table of Contents](#table-of-contents)
-  - [Repository Structure](#repository-structure)
-  - [Required Packages](#required-packages)
-  - [Usage](#usage)
+- [Table of Contents](#table-of-contents)
+- [Repository Structure](#repository-structure)
+- [Required Packages](#required-packages)
+- [Usage](#usage)
 
 ## Repository Structure
 
