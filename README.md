@@ -6,7 +6,6 @@ The tutorial was conducted online at @[NTUDAC](https://ntudac.com/) on Nov 25, 2
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
 - [Repository Structure](#repository-structure)
 - [Required Packages](#required-packages)
 - [Usage](#usage)
